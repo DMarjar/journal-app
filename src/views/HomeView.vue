@@ -7,7 +7,6 @@
     <button @click="goToDaybook" class="btn btn-primary">Primary</button>
     <button @click="goToDaybook" class="btn btn-secondary">Secondary</button>
     <button @click="goToDaybook" class="btn btn-success">Success</button>
-
   </div>
 </template>
 
